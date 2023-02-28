@@ -25,7 +25,7 @@ SESSION_NAME = getenv("SESSION_NAME", "session")
 BOT_TOKEN = getenv("5658502641:AAFg_0wViDGxf1h2JolViCOSfHfZk2Sd0K0")
 BOT_NAME = getenv("Nurlandi")
 admins = {}
-API_ID = int(getenv("1225523"))
+API_ID = int("1225523")
 API_HASH = getenv("ec0ae6e668e4eaa669c536acf13c9f59")
 
 DURATION_LIMIT = int(getenv("DURATION_LIMIT", "7"))
