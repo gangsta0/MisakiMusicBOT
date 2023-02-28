@@ -14,5 +14,5 @@ bot = Bot(
     plugins=dict(root="handlers")
 )
 
-bot.start()
-run()
+bot.run()
+#run()
