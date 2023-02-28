@@ -21,7 +21,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 que = {}
-SESSION_NAME = getenv("SESSION_NAME", "session")
+SESSION_NAME = getenv("SESSION_NAME", "AgB3xbXniS5D9poBCj45l2GAQaeeUmLoZY5H-RlRdDQzt4rMfQdpwF8T0arA5nmd22aLL00DAHYIn3wtbZrcSHnU9IbZzA5mvoLZvcHck4KvR1IYF8wefegxc2G8P1iJvWBtCbzO4o0pYhb4mG5yq1ZdXTKr-3fzrt3N9tHyYTTgCW6G1DG1FQyxgsw9BbEM7YDqC-8xeOq_gsV4ucIURHNoM8X1rzD0AQWdIj9OkTAv-8R163UWrDzsshsESjWKevDHZ9gA92WnGZqXh96B93_2PH_FyjM72PjUF-B9QR2zdWejnMrFBlO7bA7BhXDlSfvmv-5kDik39ULxkD2dacGAAAAAAUdE-iwA")
 BOT_TOKEN = getenv("5658502641:AAFg_0wViDGxf1h2JolViCOSfHfZk2Sd0K0")
 BOT_NAME = getenv("Nurlandi")
 admins = {}
